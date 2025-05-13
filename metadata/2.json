@@ -1,0 +1,9 @@
+{
+  "name": "Tokio 2025 Travel Pass",
+  "description": "Paquete de 6 días en Tokio, incluye entradas a templos y tour gastronómico.",
+  "image": "https://raw.githubusercontent.com/OnofreSerranoUniv/TravelPass-NFTs/main/images/tokio.png",
+  "attributes": [
+    { "trait_type": "Duration", "value": "6 days" },
+    { "trait_type": "Gastronomy Tour", "value": "Yes" }
+  ]
+}
