@@ -1,0 +1,9 @@
+{
+  "name": "París 2025 Travel Pass",
+  "description": "Acceso al paquete completo de viaje a París en primavera de 2025 (7 días, tour guiado).",
+  "image": "https://raw.githubusercontent.com/OnofreSerranoUniv/TravelPass-NFTs/main/images/paris.png",
+  "attributes": [
+    { "trait_type": "Duration", "value": "7 days" },
+    { "trait_type": "Included Tours", "value": "Yes" }
+  ]
+}
